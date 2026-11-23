@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+ALEKNAGIK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+ALEKNAGIK",
+  "title": "Federal Register - AK NATIVE VILLAGE OF ALEKNAGIK",
+  "fetched_at": "2026-11-23T16:08:29.386214Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 210610,
+  "sha256": "da143a5da0411a49441a9fb336c365cc0d3d62b2990786a1476b977ee055ac5d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
